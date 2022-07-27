@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f0275991.css",
+    "main.js": "/portfolio/static/js/main.712a9416.js",
+    "static/media/capetown.jpg": "/portfolio/static/media/capetown.929b5aa81afb27b93d34.jpg",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.594f1070f0b9d7868bc0.png",
+    "static/media/recipe.png": "/portfolio/static/media/recipe.b8c2cd5f85fe601c947e.png",
+    "static/media/tourism.png": "/portfolio/static/media/tourism.d1c8b2f8df73a90de3bc.png",
+    "static/media/spaceportfolio.png": "/portfolio/static/media/spaceportfolio.b555bd674d355fab24b5.png",
+    "static/media/nodejs.png": "/portfolio/static/media/nodejs.807cc08f74ef1fb16954.png",
+    "static/media/resume.svg": "/portfolio/static/media/resume.dc3c668f44803c9d4b0621ad30029f5e.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.d09d64fe30b941c2d5dba4695179f496.svg",
+    "static/media/css.svg": "/portfolio/static/media/css.aec31ad6887c3a820a1b3b8e2b9d9937.svg",
+    "static/media/live-preview.svg": "/portfolio/static/media/live-preview.3545b1a781c42b769c1f92fca71dc4d0.svg",
+    "static/media/html.svg": "/portfolio/static/media/html.50b3a9cc6fa66c879f2f35654529a08b.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/source-code.svg": "/portfolio/static/media/source-code.fae376ed11eebcd2f2e6797bcfe6c98a.svg",
+    "static/media/javascript.svg": "/portfolio/static/media/javascript.0dd1cf6c80bb500c655a617006c1148a.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.4f33f29afb92d1a50180b6bb751f55dd.svg",
+    "static/media/email.svg": "/portfolio/static/media/email.0911385adb4aede264c61bf8b0466c0c.svg",
+    "main.f0275991.css.map": "/portfolio/static/css/main.f0275991.css.map",
+    "main.712a9416.js.map": "/portfolio/static/js/main.712a9416.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0275991.css",
+    "static/js/main.712a9416.js"
+  ]
+}

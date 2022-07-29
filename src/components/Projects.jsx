@@ -91,8 +91,8 @@ function Projects() {
       <Project
         projectName={"React Portfolio"}
         projectImg={portfolio}
-        projectPreview={"/"}
-        projectCode={"/"}
+        projectPreview={"https://jjoosthuizen.github.io/portfolio/"}
+        projectCode={"https://github.com/JJOosthuizen/portfolio"}
         projectTech={["React", "GSAP", "Semantic HTML5 markup"]}
         projectDiff={
           "I wanted to create a portfolio by using all the knowledge I have learned and show it. Main struggle was creating a way to have people send me emails by using the contact form."

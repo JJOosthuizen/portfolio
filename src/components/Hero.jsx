@@ -15,7 +15,7 @@ function Hero() {
         <span>Cape Town, Western Cape</span>
         <div className="links">
           <div>
-            <a href="/" target="_blank" rel="noopener noreferrer">
+            <a href="https:\\linkedin.com/in/jacques-oosthuizen-b09178241/" target="_blank" rel="noopener noreferrer">
               <img src={linkedin} className="filter-white" alt="" />
             </a>
 
